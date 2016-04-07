@@ -24,7 +24,7 @@ h1 {
   margin: -75px 0 0 -75px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #3498db;
+  border-top-color: #52A8B6;
 
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
@@ -39,7 +39,7 @@ h1 {
   bottom: 5px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #e74c3c;
+  border-top-color: #79C2D0;
 
   -webkit-animation: spin 3s linear infinite;
   animation: spin 3s linear infinite;
@@ -54,7 +54,7 @@ h1 {
   bottom: 15px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #f9c922;
+  border-top-color: #BBE4EA;
 
   -webkit-animation: spin 1.5s linear infinite;
     animation: spin 1.5s linear infinite;
@@ -90,7 +90,7 @@ h1 {
   top: 0;
   width: 51%;
   height: 100%;
-  background: #222222;
+  background: #5382B2;
   z-index: 1000;
   -webkit-transform: translateX(0);
   -ms-transform: translateX(0);
